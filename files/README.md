@@ -5,7 +5,7 @@ An objective based online examination software using php , mySQL , html , javasc
 
 2.Import onlineexamination.sql in your phpmyadmin
 
-3.Default Admin ID:mangalamgupta@onlineexamination.com and password 9876543210
+3.Default Admin ID:gowthamrajp06@gmail.com and password 9750417833
 
-For any query contact in mail id:b150073ee@nitsikkim.ac.in or mangalamgupta01@gmail.com
+For any query contact in mail id:gowthamrajp06@gmail.com
 
