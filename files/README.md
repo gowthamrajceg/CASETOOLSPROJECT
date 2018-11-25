@@ -1,4 +1,4 @@
-# online-examination-syatem
+# online-examination-system
 An objective based online examination software using php , mySQL , html , javascript and CSS.
 
 1.Download whole project in your web directory.
